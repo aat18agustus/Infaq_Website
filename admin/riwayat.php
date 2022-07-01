@@ -22,7 +22,7 @@
                             <a class="navbar-brand" aria-current="page" href="index.php">Infaq Masjid </br> Roudlotul Jannah</a>
                         </li>
                     </ul>
-                    
+
                 </div>
             </div>
         </nav>
@@ -66,10 +66,10 @@
                                                     <br>
                                                     <label for="color">Sumber :</label>
                                                     <select class="form-select" aria-label="Default select example" name="sumber">
-                                                      <option value="Dana">Dana</option>
-                                                      <option value="OVO">OVO</option>
-                                                      <option value="GOPAY">GOPAY</option>
-                                                      <option value="SHOPEEPAY">SHOPEEPAY</option>
+                                                        <option value="Dana">Dana</option>
+                                                        <option value="OVO">OVO</option>
+                                                        <option value="GOPAY">GOPAY</option>
+                                                        <option value="SHOPEEPAY">SHOPEEPAY</option>
                                                     </select>
                                                 </div>
                                             </div>
@@ -117,6 +117,11 @@
 
                 </div>
             </header>
+            <div class="container h-100 mb-5">
+                <div class="mb-6 mt-4" style="text-align: center">
+                    <h4 style="color:  white"> Dan dirikanlah shalat dan tunaikanlah zakat.<br> Dan kebaikan apa saja yang kamu usahakan bagi dirimu,<br> tentu kamu akan mendapat pahala nya pada sisi Allah. Sesungguhnya Alah Maha Melihat apa-apa yang kamu kerjakan.<br> (Q.S. Al-Baqarah : 110) </h4>
+                </div>
+            </div>
             <br><br><br>
         </section>
 
